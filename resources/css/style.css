@@ -1,5 +1,7 @@
 body {
   background-color: black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
 }
 
 h1 {
@@ -11,6 +13,23 @@ h1 {
 }
 
 h2 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 42px;
+}
+
+h3 {
+  color: white;
+  float: right;
+  margin-right: 55px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 21px;
   color: white;
 }
 
@@ -24,6 +43,19 @@ a {
   color: aquamarine;
 }
 
-a:hover {
-  text-decoration: underline;
+.video {
+  padding-top: 35px;
+  display: flex;
+  justify-content: center;
+}
+
+.camp {
+  display: flex;
+  justify-content: center;
+}
+
+.phone {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
 }
