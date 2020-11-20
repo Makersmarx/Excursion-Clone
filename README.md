@@ -1,2 +1,3 @@
 # Excursion-Clone
-Simple HTML/CSS project to clone a ficticious site. 
+
+Simple HTML/CSS project to clone a fictitious site.
